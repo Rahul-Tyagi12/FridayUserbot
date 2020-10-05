@@ -28,8 +28,8 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
            text=f"**Showing Stats For {DEFAULTUSER}'s MARK41** \nNote --> Only Owner Can Check This \n(C) @tonyironstark",
            buttons = [
                    [custom.Button.inline("Show Stats 🚶", data="terminator")],
-                   [Button.url("Repo 🛡️", "https://github.com/StarkGang/")],
-                   [Button.url("Join Channel 📃", "t.me/")],
+                   [Button.url("Repo 🛡️", "https://github.com/")],
+                   [Button.url("My Contact 📃", "t.me/tonyironstark")],
              ]
          )
         await event.answer([result] if result else None)
