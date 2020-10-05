@@ -5,7 +5,7 @@ from telethon import custom, events, Button
 from userbot import ALIVE_NAME
 from userbot import CMD_LIST
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Friday"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "MARK41"
 if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
 
     @tgbot.on(events.InlineQuery)  # pylint:disable=E0602
@@ -13,7 +13,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         builder = event.builder
         result = None
         query = event.text
-        if event.query.user_id == bot.uid and query.startswith("Friday"):
+        if event.query.user_id == bot.uid and query.startswith("MARK41"):
             rev_text = query[::-1]
             buttons = paginate_help(0, CMD_LIST, "helpme")
             result = builder.article(
@@ -25,11 +25,11 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         if event.query.user_id == bot.uid and query == "stats":
            result = builder.article(
            title="Stats",
-           text=f"**Showing Stats For {DEFAULTUSER}'s Friday** \nNote --> Only Owner Can Check This \n(C) @FridayOT",
+           text=f"**Showing Stats For {DEFAULTUSER}'s MARK41** \nNote --> Only Owner Can Check This \n(C) @tonyironstark",
            buttons = [
                    [custom.Button.inline("Show Stats 🚶", data="terminator")],
-                   [Button.url("Repo 🛡️", "https://github.com/StarkGang/FridayUserbot")],
-                   [Button.url("Join Channel 📃", "t.me/Fridayot")],
+                   [Button.url("Repo 🛡️", "https://github.com/StarkGang/")],
+                   [Button.url("Join Channel 📃", "t.me/")],
              ]
          )
         await event.answer([result] if result else None)
