@@ -27,7 +27,7 @@ CUSTOM_MIDDLE_PMP = (
 )
 USER_BOT_WARN_ZERO = "You Have Attempted To Spam Masters Inbox So Inorder To Avoid Over Spam , You Have Been Blocked By Userbot"
 USER_BOT_NO_WARN = (
-    "**Hello,This is Friday Protection Service ⚠️**\n\n"
+    "**Hello,This is MARK41 Protection Service ⚠️**\n\n"
     f"`My Master {DEFAULTUSER} is Busy Right Now !`"
     "__You May Leave A Request And Wait Till He Approves You.__ \n\n"
     "**Now You Are In Trouble. So Send** `/start` **And Register A Request** \n\n"
