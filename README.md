@@ -1,7 +1,7 @@
-# FRIDAY-USERBOT
+# MARK41-USERBOT
 
 <p align="center">
-<img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="FRIDAY USERBOT">
+<img src="https://telegra.ph/file/d0cafe17ecee36c925536.jpg" alt="MARK41 USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -15,12 +15,9 @@ Best User Bot To Manage Your Telegram Account
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/@tonyironstark"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-## HOW TO DEPLOY 
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
 ### Host Friday In Heroku
@@ -36,7 +33,7 @@ Best User Bot To Manage Your Telegram Account
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/starkGang/Fridayuserbot
+git clone https://github.com/Rahul-Tyagi/Mark41userbot
 cd FridayUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -86,4 +83,3 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - $ Sudo Credits - Uniborg , @MrConfused
 - $ Some Bug Fixes - @Adarsh_xD , @Aid_3n, @Sur_vivor, @Everythingsuckz, @PureindiaLover 
 
-Check More Contribution At https://github.com/StarkGang/FridayUserbot/graphs/contributors
