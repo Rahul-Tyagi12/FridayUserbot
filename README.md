@@ -11,7 +11,7 @@
 Best User Bot To Manage Your Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## © By Team #SᴛᴀʀᴋGᴀɴɢ™
+## © By Team #MARK41™
 
 ### For any query or want to know how it works join Group And Channel 
 
